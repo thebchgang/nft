@@ -1,0 +1,43 @@
+{
+  "dna": "93ac4e36a5d85b49edcf388c7121d494bdf33bc5",
+  "name": "#7375",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/7375.png",
+  "edition": 7375,
+  "date": 1649858292404,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Big Green Boss"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes With Eyebrows"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Dark Balck Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Red Cap Front"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

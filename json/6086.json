@@ -1,0 +1,43 @@
+{
+  "dna": "e8041c85528ae254b0af93a621c94891b4fbaab2",
+  "name": "#6086",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/6086.png",
+  "edition": 6086,
+  "date": 1649857685811,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Pattaren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Andry Light Blue Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "BlakcGray Spike Hair Right"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

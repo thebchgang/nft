@@ -1,0 +1,43 @@
+{
+  "dna": "fc3ae5affc2f9e6d92d63b4706a2b49ea036e376",
+  "name": "#9159",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/9159.png",
+  "edition": 9159,
+  "date": 1649859132550,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BCH_Coins3"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Blue Eyes With Under Lashes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Green Cap Front"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

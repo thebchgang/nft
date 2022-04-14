@@ -1,0 +1,43 @@
+{
+  "dna": "6e14ee6685153ebc14f9fbaaac014352acddec1d",
+  "name": "#786",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/786.png",
+  "edition": 786,
+  "date": 1649855005796,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Shades"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Eyes "
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "One Lens Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black And Red Hat"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

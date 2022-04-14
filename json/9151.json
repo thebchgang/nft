@@ -1,0 +1,43 @@
+{
+  "dna": "abef2c78002490e3d51e0dd1e7ad86c5b3a73a4c",
+  "name": "#9151",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/9151.png",
+  "edition": 9151,
+  "date": 1649859128700,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Pattaren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Red Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Eyes With Eyebrows"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Spikey Blue Hair"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Pipe With Small Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

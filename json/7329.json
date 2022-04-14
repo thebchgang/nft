@@ -1,0 +1,43 @@
+{
+  "dna": "7e900b1ab0958b488d74a8cc5d893c38a514f51b",
+  "name": "#7329",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/7329.png",
+  "edition": 7329,
+  "date": 1649858270658,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Shades"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket With Tommy Gun"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyes Under Lashes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Tammy"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

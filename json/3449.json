@@ -1,0 +1,43 @@
+{
+  "dna": "e1cd341380c438f5728e78634ba34532467071ef",
+  "name": "#3449",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/3449.png",
+  "edition": 3449,
+  "date": 1649856363807,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket With Tommy Gun"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "The Boss's Eyes "
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Side Shade Left"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

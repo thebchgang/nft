@@ -1,0 +1,43 @@
+{
+  "dna": "0500c5da6a6df4dad1bd3ad0becd72e98b1005cf",
+  "name": "#5218",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/5218.png",
+  "edition": 5218,
+  "date": 1649857256188,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Paint"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow Eyes With Under Lashes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Light Blue and White Cap"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

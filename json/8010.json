@@ -1,0 +1,43 @@
+{
+  "dna": "5f877494ffeea716e66e2bc2e1a7ec1bcd2a92b3",
+  "name": "#8010",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/8010.png",
+  "edition": 8010,
+  "date": 1649858592171,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eyes With Eyebrows"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Tammy"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

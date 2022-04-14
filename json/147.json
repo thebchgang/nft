@@ -1,0 +1,43 @@
+{
+  "dna": "bd02fd71c37f411b43f25a267e66acf12e9f1fc8",
+  "name": "#147",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/147.png",
+  "edition": 147,
+  "date": 1649854694231,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Patteren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Red With Hand Guns"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyes With Eyebrows"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Flick  Hair Style"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

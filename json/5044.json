@@ -1,0 +1,43 @@
+{
+  "dna": "f8a4b52dc155d33a6a166a01a3c302c3f36e16bd",
+  "name": "#5044",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/5044.png",
+  "edition": 5044,
+  "date": 1649857173430,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BCH_Fork"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Eyes With Eyebrows"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "GrayBlack Spikey Left"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Pipe With Small Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
